@@ -18,4 +18,4 @@ At KAAS, we believe that knowledge should be accessible to everyone. Our mission
 
 If you have any questions or comments, please don't hesitate to reach out to us on our [Facebook page](https://web.facebook.com/KAASENSAM). We look forward to hearing from you!
 
-![Screenshot](logo.png)
+![Screenshot](KAAS-0fficiel.gif)
